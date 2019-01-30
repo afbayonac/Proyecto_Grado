@@ -8,11 +8,11 @@ Poderosamente permite almacenar y representar conexiones  entre personas y empre
 
 #### Licencia
 
-En su pagina de Github se describe  así misma como Libre código abierto (Free open source) con las siguientes atribuciones (Pero no se encuentra la licencia):
-    - Libre de usar
-    - Libre de compartir
-    - Libre de modificar
-    - Libre de compartir cambios
+En su pagina de GitHub se describe  así misma como Libre código abierto (Free open source) con las siguientes atribuciones (Pero no se encuentra la licencia):
+  - Libre de usar
+  - Libre de compartir
+  - Libre de modificar
+  - Libre de compartir cambios
 
 #### Tecnologías o herramientas usadas:
 
@@ -26,16 +26,56 @@ En su pagina de Github se describe  así misma como Libre código abierto (Free 
 -[D3.js](https://d3js.org/) y [Coffescript](https://coffeescript.org/): Visualización de data.
 
 ####  Características
-    • Cada vez que una entidad es creada es decir una empresa  o persona esta comienza a ser  través de Internet. seguida en noticias donde esta es nombra.
-    • Permite implementar ORC (Optical Character Recognition)  permitiendo indexar analizar datos de documentos PDF.
-    • Se pueden crear y manejar usuarios con diferentes roles
-    • Maneja perfiles para sus usuarios con su respectivo historial
-    • Crea y maneja perfiles de personas , instituciones y compañías (entidades)
-    • permite  crear y relaciones entre entidades
-    • Guardado automático de las ediciones realizadas por los usuarios
-    • sistema de soporte de la política de privacidad y transparencia basado en peticiones.
+- Cada vez que una entidad es creada, empresa  o persona,  esta se comienza a ser  través de Internet. seguida en noticias donde  es nombrada.
+- Permite implementar ORC (Optical Character Recognition)  permitiendo indexar analizar datos de documentos PDF.
+- Se pueden crear y manejar usuarios con diferentes roles
+- Maneja perfiles para sus usuarios con su respectivo historial
+- Crea y maneja perfiles de personas , instituciones y compañías (entidades)
+- permite  crear y relaciones entre entidades
+- Guardado automático de las ediciones realizadas por los usuarios
+- sistema de soporte de la política de privacidad y transparencia basado en peticiones.
 
-Las siguientes aplicaciones no siguen activas
+---
+
+### Countable - Contact Congress
+
+Countable es una aplicación diseñada para crear una via de comunicación entre los estadounidenses y sus representantes en el gobierno la idea es que las personas opinen sobre la legislación en curso y estas opiniones sean llevadas a sus representantes.
+
+#### Licencia
+
+La aplicación no cuenta con el código libreado su licencia es por lo tanto reservada. (tiene una cuenta en GitHub con repositorios de diferentes proyectos)
+
+####  Características
+- cuenta con una aplicación web como principal plataforma, alguna ves tubo una aplicación en la play store pero esta no la he podido descargar, por ultimo participa activamente en sus redes sociales.
+- Busca y organiza opiniones sobre temas específicos.
+- Genera votaciones internas sobre los temas.
+- Permite realizar una veduria  sobre como los representantes se comportan en las votaciones.
+- Intenta ofrecer información en un lenguaje accesible.
+- Inspector de intereses:...
+---
+
+###  Fundación Ciudadano Inteligente
+
+Fundación ciudadano inteligente, situada en Chile, se encarga de ofrecer herramientas tecnológicas para fortalecer la democracia en America latina ([link](https://ciudadaniai.org/)).
+
+Herramientas tales como:
+- Del dicho al hecho: que intenta el cumplimento de promesas legislativas
+- Vota Inteligente: Una plataforma donde se incentiva ala la generación de propuestas desde los ciudadanos hacia los candidatos.
+- hay acuerdo: Una herramienta que permite traducir la información de compleja de un debate a un formato amigable y entendible.
+
+---
+### La Fundación Directorio Legislativo
+
+Es una pagina web que almacena el directorio de los político argentinos.
+
+#### Licencia
+
+Tiene sus derechos reservados
+
+####  Características
+
+- Un buscador de por nombre
 
 
-Aplicación estadounidense que tiene como cometido hacer hacer atendible los proyectos de ley echos por los representantes
+
+#### _Las siguientes aplicaciones no siguen activas_

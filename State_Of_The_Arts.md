@@ -74,7 +74,7 @@ Tiene sus derechos reservados
 
 ####  Características
 
-- Un buscador de por nombre
+- Un buscador y una base de datos
 
 
 

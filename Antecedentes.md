@@ -24,7 +24,7 @@ Canditater fue un proyecto financiado por la embajada alemana  y operado por VIC
 
 #### quien es quien
 
-Es una heerramienta de la Silla Vacia que permite obsevar coneciones de personas 
+Es una herramienta de la Silla Vacia que permite observar conexiones de 
 
 
 

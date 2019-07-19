@@ -26,7 +26,7 @@ Este proyecto pretende tres cosas, primero que los ciudadanos colombianos cuente
 * servidor
 * civic app
 
-### 1. INTRODUCCIÓN
+# 1. INTRODUCCIÓN
 
 La democratización de la información entendida como libertad que tiene cualquier ciudadano a acceder y publicar saberes u opiniones, desde cualquier lugar y a cualquier hora, fortaleciendo asi la posición del ciudadano y sus derechos. Es ensimismá una meta no se ha alcanzado,  por barreras como el costo, el idioma, la censura entre otras, no obstante y siendo optimistas es una meta que tiene cimentado el camino con la ayuda del Internet. Ahora bien, hemos alcanzado un grado en el cual nos damos cuenda que tener toda la información a nuestro alcancé no es suficiente, es necesario buscar formas organizar, representar y validar los datos.
 
@@ -39,25 +39,27 @@ Organizar y Representar se vuelve crucial cuando manejamos grandes volúmenes de
 Ahora bien, la democratización del la información en un contento político es es esencial para generar procesos democráticos, facilitar la interpretación de la información y generar procesos de verificación es una labor que nos corresponde a los ingenieros de sistemas.
 
 
-### 2.	DECLARACIÓN DEL PROBLEMA
+# 2. DECLARACIÓN DEL PROBLEMA
 
-En la política colombiana solemos escuchar muchas veces los mismos apellidos, algunos que resuenan mas en el contexto nacional y otros en un contexto Regional, Esto ha dado a dado paso a crear en la conciencia colectiva la idea de "Oligarquía colombiana", la cual posee limites intangibles, no sabemos con certeza quienes son ni que tanto alcance tienen.
+En una democracia multipartidista como la colombiana vemos que cada vez aparecen mas partidos y que estos mas allá de representar ideales y objetivos fijos son  plataformas para intereses electorales de sus integrantes, que si bien no es negativo por si mismo, afecta el proceso electoral puesto que es cada vez mas es difícil reconocer a los candidatos e informarnos sobre ellos.
 
-Establecer un diagrama mental de las relaciones que se dan en el gobierno Colombiano resulta en una dura tarea, una tarea que debe realizarse cada vez que nos enfrentarnos a las urnas, por cada uno de los 36,805,079 colombianos que podemos ejercer el derecho al sufragio.
+![senado2018.jpeg](./senado2018.jpeg)
 
-La web 2.0 a creado una nueva forma de hacer política, de difundir información, Son muchas los personajes públicos que cuentan con un blog, un canal en Youtube, una fanpage en las redes sociales de moda, estas canales,  les permite desplegar un discurso adecuado  al destinatario.
+En la anterior imagen podemos darnos cuenta de la cantidad de candidatos que se presentaba a las elecciones para en el 2018, Establecer el diagrama mental de las con relaciones de cada candidato y retener esa información para compararlos con los demás es una tarea monumental y compleja. las capacidades del ser humano son limitadas, con ayuda del internet contamos con una fuente de información abrumadora, pero no contamos con las medios y el tiempo para acceder a esta.
 
+Por otra parte, en la política colombiana es común encontrarse con los mismos apellidos una y otra vez en las noticias, en el congreso y en la misma historia, da paso a crear un imaginativo común de "oligarquía colombiana"  que seria un conjunto de individuos que manjar el el poder y el porvenir del país, si bien puede ser una realidad, es un concepto que posee limites intangibles no sabemos quienes son ni que tanto alcance tienen con certeza.
 
-borbuja de infotmacion
-Desde ese punto el internet es un aliado, nos brinda poder, al convertirnos a todos los usuarios en una posible fuente de información, desligando la información de los medios tradicionales de información,
+Establecer un diagrama mental de las relaciones que se dan en el gobierno es una tarea que los ciudadanos colombianos debemos realizar, un proceso que común-mente se forma con segmentos de los noticiarios, periódicos, redes sociales y en algunos casos investigaciones propias muy puntuales. obtendremos como resultado un boceto precario de la realidad en el contexto que vivimos. Es interesante también enunciar el papel que juega la pos-verdad, pues sean ciertas o no las noticias que consumimos estas serán parte de este diagrama.
 
+Bueno y que hacen las campañas para subsanar estas brechas de desinformación? , como se promocionan los candidatos, para que tomemos decisiones informadas?, El proceso electoral nos da las herramental necesarias? la respuesta es no, la información al ser dada por los candidatos carece de parcialidad, los panfletos publicitarios  y las campañas televisivas, recitan eslóganes para grabarlos como sellos en las mentes de los votantes. Los debates son espacios de respuestas cortas y sonoras para preguntas complejas y con muchas aristas.
 
-El conjunto de datos que podemos relacionar, es limitado, puesto que las capacidades del ser humano son limitadas, primero  podemos retener una pequeña cantidad de información al tiempo, segundo aunque gracias al internet contamos fuente information casi ilimitada no contamos con las capacidades para accedería, por ultimo nuestro tiempo es limitado.
+[Hacer un collage de panfletos]
 
-Esto es problema cuando deseamos tomar decisiones informadas en poco tiempo, en temporada de elecciones nos vemos abrumados con información, grandes campañas publicitarias que intentan dejarnos grabada una frase, planes de gobierno que nos dan esperanza, discursos calculados y debates medidos. Tomar decisiones en estas circunstancias se convierte en un acto de fe.
+Aveces solemos confundir nuestra democracia representativa con una democracia pura, pues los candidatos se vuelven una paquete de promesas , ideas y planes, y se nos olvida, que si bien son importantes al final nosotros votamos por personas, que se encargan de tomar las decisiones. conocerlas es mas importante que aprendernos sus promesa. 
 
 ### 3.	ANTECEDENTES
 
+Han existido y existen herramientas que intentan aportar trasparencia a los procesos electorales , y a su ves herramientas que permiten tomar la decicionde por quien votar, en 
 #### Poderopedia
 
 Poderopedia es una plataforma de código abierto la cual permite manejar la información de personas de interés en la actualidad en la actualidad política de un país, primeramente implementada en Chile y replicada en otros países de América latina como Colombia.
@@ -110,7 +112,6 @@ El aplicativo se vuelva un instrumento de apoyo para la búsqueda de conflictos 
 #### 5.6	METODOLOGÍA Y PLAN DE TRABAJO
 
 el objetivo que buscamos con la siguiente metodología es que el desarrollo tenga una linea claramente iterativa, incremental y con gran flexibilidad a cambios en los requerimientos.
-
 
 ![diagrama-grant](./diagrama-grantt.png)
 
@@ -172,5 +173,4 @@ Democracia 2.0:
 La política se introduce en las redes sociales
 David CALDEVILLA DOMÍNGUEZ1
 
-### ANEXOS	16
-#### a.1	estado del arte	16
+

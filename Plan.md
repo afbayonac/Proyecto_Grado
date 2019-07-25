@@ -208,10 +208,10 @@ En todo lo relacionado con software de terceros, intentaremos hacer uso de herra
 En la fase de requerimientos es imprescindible realizar entrevistas a analistas políticos , políticos y politólogos;  la dinámica de las entrevistas busca que nos den información clave de cómo realizan sus trabajos, por lo tanto se considera preferible la realización de reuniones presenciales; se consideran Bogotá y Medellín como dos centros político-económicos que albergan a varios posibles entrevistados. 
 
 
-10.6 COSTOS  TOTALES  
-|||||
-|-|-|-|-|
+## 10.6 COSTOS  TOTALES 
+
 | NOMBRE | VALOR| CANTIDAD | TOTALES |
+|--------|------|----------|---------|
 | Pasajes Bogotá | $160,000 | 1 | $160,000 |
 | Pasajes Medellín | $200,000 | 1 | $200,000 |
 | Viáticos | $300,000 | 1 | $300,000 |
@@ -231,24 +231,38 @@ En la fase de requerimientos es imprescindible realizar entrevistas a analistas 
 ## 11.   REFERENCIAS 
 
 L’Intelligence collective. Pour une anthropologie du cyberespace, La Découverte, Paris, 1994.
+
 Cyberdémocratie. Essai de philosophie politique, Odile Jacob, Paris 2002.
 Registraduría Nacional del Estado Civil, CENSO ELECTORAL  recuperado en (https://www.registraduria.gov.co/-Censo-Electoral,3661-.html)
+
 Ariel Súcari, Desarrollo guiado por pruebas. Automatización de pruebas unitarias. SG recuperado en (https://sg.com.mx/content/view/358) 
+
 David Caldevilla Domínguez, Democracia 2.0: La política se introduce en las redes sociales (2009), Universidad de Complutense de Madrid 
-Scrum, Wikipedia recuperado en (https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software) )
+
+Scrum, Wikipedia recuperado en (https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))
+
 Desarrollo guiado por Pruebas, Wikipedia  recuperado en (https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas)
+
 Diego-Alonso Gómez-Aguilar, Francisco-José García-Peñalvo y Roberto Therón, Analitica visual en E-learning (2014) recuperado en (http://www.elprofesionaldelainformacion.com/contenidos/2014/mayo/03.pdf)
+
 ALBERTO CAIRO, INFOGRAFÍA 2.1 recuperado en (http://www.serlib.com/pdflibros/9788498890105.pdf)
+
 Human Rights Action, democratización de la información,  recuperado en (https://www.humanrightsaction.org/information/spanish.html)
+
 Juliana Gragnani, Guía básica para identificar noticias falsas, BBC News Brasil recuperado en (https://www.bbc.com/mundo/noticias-45561204)
+
 Daniel Pacheco, Periodismo colombiano, en crisis, Espectador recuperado en (https://www.elespectador.com/opinion/periodismo-colombiano-en-crisis-columna-738713)
+
 Juancho parada, Periodismo colombiano en crisis: ¿dónde está la salida? – Distractor, El TIEMPO recuperado en (http://blogs.eltiempo.com/esto-le-pasa/2019/03/25/crisis-periodismo-colombian/)
+
 Daniel Coronell: ¿Hay una crisis en el periodismo colombiano?,  El Tiempo recuperado en (http://blogs.eltiempo.com/lecturas-con-santiago-angel/2019/05/30/daniel-coronell-una-crisis-periodismo-colombiano/)
+
 María Teresa Herrán, Medios en crisis, Semana recuperado en (https://www.semana.com/nacion/articulo/medios-crisis/44120-3)
+
 Páginas de Chequeo de la información
-FactCheck https://www.factcheck.org/
-Polifact https://www.politifact.com/
+- FactCheck https://www.factcheck.org/
+- Polifact https://www.politifact.com/
  
  
-1. CRONOGRAMA
+## 12. CRONOGRAMA
 
